@@ -10,6 +10,7 @@ A partir de los datos del material utilizado mostrado, en la figura siguiente,
 el estudiante deberá calcular los valores de l1 y l2
 para el posterior cálculo de las reluctancias. Las medidas del núcleo ferromagnético
 vienen dadas en cm, deberá referenciarlas a metros(m).
+Adicionalmente se incluye una app para ilustrar el ejercicio, donde el estudiante puede variar parámetros y observar el comportamiento de la variables
 
 ## Contexto o pre-requisitos
 Este tipo de práctica proporciona conocimientos al estudiante del comportamiento
